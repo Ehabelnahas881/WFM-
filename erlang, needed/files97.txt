@@ -1,0 +1,8 @@
+Contents of Erlang97.zip
+
+ErlangInstall.txt	Installation instructions
+ErlangXL97.xla		Excel add-in file for Excel 97/2000
+ErlangExample97.xls	Test file for Excel 97/2000
+ErlangXL.doc		Documentation of erlang functions
+ErlangXL97Source.xls	The source code spreadsheet
+

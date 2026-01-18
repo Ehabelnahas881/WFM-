@@ -1,0 +1,24 @@
+Installation instructions for ErlangXL95.xla and ErlangXL97.xla
+
+
+FOR EXCEL 97 or EXCEL 2000
+
+Download ErlangXL97.xla to C:\Program Files\Microsoft Office\Office\Library for Excel 97
+or C:\Windows\Application Data\Microsoft\AddIns for Excel 2000
+Start Excel
+Select Tools\Add-Ins from the menu
+Click on Browse and select the ErlangXL97.xla file
+Erlang for Excel is now shown in the list of Add-Ins (older versions will show ErlangXL97)
+Ensure the tick box next to this file is ticked
+Click on OK
+
+
+FOR EXCEL 7 (95)
+
+Download ErlangXL95.xla to C:\MSOffice\Excel\Library
+Start Excel
+Select Tools\Add-Ins from the menu
+Click on Browse and select the ErlangXL95.xla file
+Erlang for Excel is now shown in the list of Add-Ins (older versions will show ErlangXL95)
+Ensure the tick box next to this file is ticked
+Click on OK
